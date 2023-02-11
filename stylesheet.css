@@ -1,5 +1,12 @@
 h1 {
-	color: #0000ff;/*black;*/
+	color: #0000ff;/*blue;*/
+	font-size: 12px:
+	font-family: serif; /* Avenir Next*/
+}
+
+h2 {
+	color: #0000ff;/*blue;*/
 	font-size: 10px:
 	font-family: serif; /* Avenir Next*/
 }
+
