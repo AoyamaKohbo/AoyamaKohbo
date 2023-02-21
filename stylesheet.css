@@ -15,6 +15,11 @@ h2 {
   height: 90px;
 }
 
+.header-logo {
+  background-color: #f7f2b4;
+  height: 90px;
+}
+
 body {
   font-family: "Avenir Next";
 }
