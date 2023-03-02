@@ -66,7 +66,6 @@ li {
   padding-top: 100px;
 }
 
-/* inputとtextareaのCSSを指定してください */
 input, textarea {
   width: 400px;
   margin-top: 10px;
@@ -76,7 +75,6 @@ input, textarea {
   border: 1px solid #dee7ec;
 }
 
-/* contact-submitのCSSを指定してください */
 .contact-submit {
   background-color: #dee7ec;
   color: #889eab;
