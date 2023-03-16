@@ -4,7 +4,7 @@ body {
 
 li {
   list-style: none;
-  font-size: 54px;
+  font-size: 45px;
 }
 
 .header {
@@ -54,7 +54,7 @@ li {
 
 .contents-item {
   float: left;
-  margin-right: 40px;
+  margin-right: 45px;
 }
 
 .contents-item p {
